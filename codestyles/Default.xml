@@ -1,13 +1,4 @@
 <code_scheme name="Default" version="173">
-  <Objective-C>
-    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
-    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
-    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
-    <option name="SPACE_WITHIN_FUNCTION_DECLARATION_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_FUNCTION_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BETWEEN_ADJACENT_BRACKETS" value="true" />
-    <option name="SPACE_BETWEEN_OPERATOR_AND_PUNCTUATOR" value="true" />
-  </Objective-C>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -33,16 +24,4 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
-  <codeStyleSettings language="ObjectiveC">
-    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
-    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
-  </codeStyleSettings>
 </code_scheme>
