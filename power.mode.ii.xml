@@ -2,11 +2,14 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="$USER_HOME$" />
     <option name="customFlameImageFolder" value="$USER_HOME$" />
-    <option name="flameLife" value="1000" />
+    <option name="flameLife" value="384" />
     <option name="flamesEnabled" value="false" />
-    <option name="heatup" value="50" />
+    <option name="heatup" value="8" />
+    <option name="heatupThreshold" value="10" />
     <option name="isPowerIndicatorEnabled" value="false" />
     <option name="shakeEnabled" value="false" />
     <option name="soundsFolder" value="$USER_HOME$" />
+    <option name="sparkCount" value="6" />
+    <option name="sparkLife" value="948" />
   </component>
 </application>
