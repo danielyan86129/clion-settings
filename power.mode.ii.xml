@@ -1,6 +1,12 @@
 <application>
   <component name="PowerModeII">
+    <option name="customBamImageFolder" value="$USER_HOME$" />
+    <option name="customFlameImageFolder" value="$USER_HOME$" />
+    <option name="flameLife" value="1000" />
     <option name="flamesEnabled" value="false" />
+    <option name="heatup" value="50" />
+    <option name="isPowerIndicatorEnabled" value="false" />
     <option name="shakeEnabled" value="false" />
+    <option name="soundsFolder" value="$USER_HOME$" />
   </component>
 </application>
