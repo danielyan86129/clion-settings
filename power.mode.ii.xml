@@ -9,7 +9,6 @@
     <option name="isPowerIndicatorEnabled" value="false" />
     <option name="shakeEnabled" value="false" />
     <option name="soundsFolder" value="$USER_HOME$" />
-    <option name="sparkCount" value="6" />
     <option name="sparkLife" value="948" />
   </component>
 </application>
