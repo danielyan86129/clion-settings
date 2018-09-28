@@ -32,4 +32,7 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ReformatCommitMessage" />
+  <action id="hg4idea.run.conflict.resolver">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
 </keymap>
