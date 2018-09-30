@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 2" parent="Default for XWin">
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
