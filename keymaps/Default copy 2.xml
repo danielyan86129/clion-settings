@@ -3,12 +3,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="ChangesView.Diff" />
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="Diff.ShowDiff" />
-  <action id="Diff.ShowSettingsPopup" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
